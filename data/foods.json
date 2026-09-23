@@ -13308,8 +13308,8 @@
     "nome": "Nescau® Nescafé Dolce Gusgo",
     "medida_caseira": "1 cápsula",
     "peso_g_ml": 17,
-    "cho_g": 9,
-    "calorias_kcal": 73
+    "cho_g": 10,
+    "calorias_kcal": 67
   },
   {
     "id": 1665,
@@ -19270,5 +19270,13 @@
     "peso_g_ml": 250,
     "cho_g": 13,
     "calorias_kcal": 188
+  },
+  {
+    "id": 2410,
+    "nome": "Biscoito maisena Piraquê ®",
+    "medida_caseira": "1 unidade",
+    "peso_g_ml": 4,
+    "cho_g": 3,
+    "calorias_kcal": 18
   }
 ]
